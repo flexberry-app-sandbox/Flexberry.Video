@@ -11,8 +11,8 @@
     "Validate": false,
     "Frontend": {
       "EmberJs": {
-        "EmberApp": true,
-        "EmberAddon": false,
+        "EmberApp": false,
+        "EmberAddon": true,
         "Build": false,
         "GitClone": false,
         "GitPush": false,
